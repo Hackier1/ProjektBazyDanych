@@ -1,0 +1,3 @@
+Baza dancyh "Praca" przechowuje najważniejsze informacje w firmie sprzedającej artykuły elektroniczne o: 
+pracownikach, klientach, posiadanych produktach, zamówieniach oraz przesyłce.
+Zbiera informacje na temat wydajności firmy.
